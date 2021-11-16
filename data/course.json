@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "95cf5c21-4826-165c-f0aa-fa88861e5232"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Topics in Cryptography",
+  "course_description": "The topics covered in this course include interactive proofs, zero-knowledge proofs, zero-knowledge proofs of knowledge, non-interactive zero-knowledge proofs, secure protocols, two-party secure computation, multiparty secure computation, and chosen-ciphertext security.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.426J",
+  "primary_course_number": "6.876J",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
